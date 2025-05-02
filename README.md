@@ -1,37 +1,62 @@
-# Hi, I'm Debashish! 👋
+<h1 align="center">Hi there 👋, I'm Debashish Sahu</h1>
 
-Welcome to my GitHub profile! I am a passionate developer with expertise in **Web Development** and **Python**. I love building web applications and solving real-world problems with code.
+<p align="center">
+  🚀 Passionate developer | 📘 MCA @ NIT Bhopal | 🛠️ Building <strong>DevStencil</strong><br/>
+  📚 I love building tools that help people learn, code, and grow.
+</p>
 
-## 🚀 About Me
+---
 
-- 💻 I specialize in **Frontend** and **Backend** development.
-- 🐍 Python enthusiast – I enjoy automating tasks, data analysis, and developing backend solutions.
-- 🌐 Experienced in building dynamic, responsive, and user-friendly websites.
-- 🎯 Currently exploring **Machine Learning** and **API Development**.
+## 👨‍💻 About Me
 
-## 🔧 Technologies & Tools
+- 🎯 Founder of **DevStencil** – a microservices-based learning & practice platform.
+- 🧠 Interested in distributed systems, dev tooling, and open-source.
+- 🏗️ Working with: `Next.js`, `Spring Boot`, `PostgreSQL`, `Docker`, `React Native`.
+- 🎓 Pursuing MCA @ NIT Bhopal.
+- 💬 Ask me about Java, Next.js, microservices, and system design.
 
-### Web Development:
-- **Frontend**: HTML5, CSS3, JavaScript (ES6+), Bootstrap, React
-- **Backend**: Node.js, Express.js,  Flask
-- **Databases**: MySQL,  MongoDB
-- **Version Control**: Git, GitHub
-- **Deployment**: Netlify
+---
 
-### Python Development:
-- **Web Frameworks**: Flask
+## 🛠️ Tech Stack
+
+- **Frontend**: React.js, Next.js, Tailwind CSS
+- **Backend**: Spring Boot, Node.js, REST APIs, JWT
+- **DevOps**: Docker, GitHub Actions, Docker Compose
+- **Mobile**: React Native (Expo)
+- **Languages**: Java, TypeScript, Python, C++
+
+---
+
+## 🌱 Current Projects
+
+### 🚧 DevStencil – _Your developer cheat sheet & practice hub_
+
+A modern platform for developers to:
+- Browse curated cheat sheets (JavaScript, Java, Python, etc.)
+- Practice coding questions
+- Run code with sandbox (Judge0 API)
+- Learn with adaptive paths (future feature)
+
+> Tech: Spring Boot Microservices, Next.js, PostgreSQL, React Native, Docker
+
+---
 
 ## 📈 GitHub Stats
-![Debashish's GitHub stats]()
 
-## 📫 How to Reach Me
-- Email: debashish.sahu.official@gmail.com
-- LinkedIn: https://www.linkedin.com/in/debashish-sahu-197119332/
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=github_dark" height="150" />
+</p>
 
-Feel free to explore my repositories and reach out for collaborations or questions!
+---
 
+## 📫 Connect with Me
 
-<!---
-Debashish-C/Debashish-C is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌐 [LinkedIn](https://www.linkedin.com/in/debashish-sahu-197119332/)
+- 📨 Email: `debashish.devstencil@gmail.com`
+- 💡 Portfolio coming soon...
+
+---
+
+> ⚡ *"Code with clarity. Build with purpose."*
+
