@@ -1,62 +1,58 @@
-<h1 align="center">Hi there 👋, I'm Debashish Sahu</h1>
+# 👋 Hi, I'm Debashish Sahu  
 
+🚀 MCA Student at **NIT Bhopal** | 💻 Passionate Coder | 🌱 Always Learning  
+
+---
+
+## 🧑‍💻 About Me
+- 🎓 Pursuing **Master of Computer Applications (MCA)** at NIT Bhopal  
+- 💡 Interested in **Full-Stack Development, Open-Source, and AI/ML**  
+- 🛠️ Currently working on **React Native apps, Microservices, and SaaS projects**  
+- 📚 Revising **DSA** (goal: 500+ LeetCode problems)  
+- 🎯 Goal: To become a **skilled software engineer** and contribute to impactful projects  
+
+---
+
+## 🔧 Tech Stack
+### 💻 Languages
+`C` `C++` `Java` `Python` `JavaScript` `TypeScript`  
+
+### 🌐 Web Development
+`React` `Next.js` `Express.js` `Node.js` `HTML` `CSS` `Tailwind CSS`  
+
+### 📱 Mobile Development
+`React Native` (with TypeScript)  
+
+### 🗄️ Databases
+`PostgreSQL` `MySQL` `MongoDB`  
+
+### ⚙️ Tools & Others
+`Git` `GitHub` `Docker` `Prisma` `Flask` `Postman`  
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  🚀 Passionate developer | 📘 MCA @ NIT Bhopal | 🛠️ Building <strong>DevStencil</strong><br/>
-  📚 I love building tools that help people learn, code, and grow.
+  <img src="https://github-readme-stats.vercel.app/api?username=Debashish-C&show_icons=true&theme=radical" alt="Debashish's GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debashish-C&layout=compact&theme=radical" height="180" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎯 Founder of **DevStencil** – a microservices-based learning & practice platform.
-- 🧠 Interested in distributed systems, dev tooling, and open-source.
-- 🏗️ Working with: `Next.js`, `Spring Boot`, `PostgreSQL`, `Docker`, `React Native`.
-- 🎓 Pursuing MCA @ NIT Bhopal.
-- 💬 Ask me about Java, Next.js, microservices, and system design.
+## 🌱 Currently Exploring
+- 🧩 **Dynamic Programming & Advanced DSA**  
+- 🤝 **Open Source Contributions**  
+- 🏗️ **Building deb-ui (UI Component Library)**  
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Frontend**: React.js, Next.js, Tailwind CSS
-- **Backend**: Spring Boot, Node.js, REST APIs, JWT
-- **DevOps**: Docker, GitHub Actions, Docker Compose
-- **Mobile**: React Native (Expo)
-- **Languages**: Java, TypeScript, Python, C++
-
----
-
-## 🌱 Current Projects
-
-### 🚧 DevStencil – _Your developer cheat sheet & practice hub_
-
-A modern platform for developers to:
-- Browse curated cheat sheets (JavaScript, Java, Python, etc.)
-- Practice coding questions
-- Run code with sandbox (Judge0 API)
-- Learn with adaptive paths (future feature)
-
-> Tech: Spring Boot Microservices, Next.js, PostgreSQL, React Native, Docker
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=github_dark" height="150" />
+## 📫 Connect With Me
+<p align="left">
+  <a href="https://github.com/Debashish-C"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/debashishtest"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:debashish.sahu.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-## 📫 Connect with Me
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/debashish-sahu-197119332/)
-- 📨 Email: `debashish.devstencil@gmail.com`
-- 💡 Portfolio coming soon...
-
----
-
-> ⚡ *"Code with clarity. Build with purpose."*
-
+⭐️ *"Code. Learn. Build. Repeat."*  
