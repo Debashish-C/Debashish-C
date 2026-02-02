@@ -1,62 +1,78 @@
-<h1 align="center">👋 Hello, I'm <strong>Debashish Sahu</strong></h1>
-<h3 align="center">Developer | MCA @ NIT Bhopal</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3F8CFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Debashish+Sahu;Full+Stack+Developer;MCA+@+NIT+Bhopal;Building+Scalable+Systems" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <h3>💻 Java Spring Boot |  ⚛️ React  | 🤖 Machine Learning</h3>
+</div>
 
 <p align="center">
+  <a href="https://debashishsahu.in" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/debashishtest" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:debashish.sahu.official@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Debashish-C">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/debashishtest">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 **About Me**
 
-I'm a **full-stack developer** and **mobile app developer** who enjoys building clean, scalable, and user-focused applications.
+I am a Developer based in **India**, currently pursuing my **MCA at NIT Bhopal**. I have a strong foundation in backend architecture using **Spring Boot** and modern frontend interfaces with **React**. I am currently expanding my horizons into **Machine Learning** to build intelligent, data-driven applications.
 
-- 🎓 MCA Student at **NIT Bhopal**  
-- 💻 Strong in **web development, mobile development, and backend systems**  
-- 🧠 Passionate about learning, improving problem-solving, and mastering fundamentals  
-- ⚡ Experienced with modern tools, frameworks, and real-world development workflows  
-- 📚 Currently improving **DSA** and refining development skills  
+- 🔭 I’m currently working on **High-performance Microservices**.
+- 🌱 I’m currently learning **Advanced Algorithms & System Design**.
+- 💬 Ask me about **Java, Spring, React Native, and ML**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ **Technical Arsenal**
 
-### **Languages**
-`C` `C++` `Java` `Python` `JavaScript` `TypeScript`
+<div align="center">
 
-### **Frontend Development**
-`React` `Next.js` `HTML` `CSS` `Tailwind CSS`
+| **Frontend** | **Backend** | **Data & ML** | **Tools** |
+|:---:|:---:|:---:|:---:|
+| <img height="40" src="https://skillicons.dev/icons?i=react" /> <img height="40" src="https://skillicons.dev/icons?i=nextjs" /> <img height="40" src="https://skillicons.dev/icons?i=ts" /> <img height="40" src="https://skillicons.dev/icons?i=tailwind" /> | <img height="40" src="https://skillicons.dev/icons?i=java" /> <img height="40" src="https://skillicons.dev/icons?i=spring" /> <img height="40" src="https://skillicons.dev/icons?i=nodejs" /> <img height="40" src="https://skillicons.dev/icons?i=postgres" /> | <img height="40" src="https://skillicons.dev/icons?i=python" /> <img height="40" src="https://skillicons.dev/icons?i=tensorflow" /> <img height="40" src="https://skillicons.dev/icons?i=pytorch" /> <img height="40" src="https://skillicons.dev/icons?i=sklearn" /> | <img height="40" src="https://skillicons.dev/icons?i=git" /> <img height="40" src="https://skillicons.dev/icons?i=docker" /> <img height="40" src="https://skillicons.dev/icons?i=postman" /> <img height="40" src="https://skillicons.dev/icons?i=vscode" /> |
 
-### **Mobile Development**
-`React Native (TypeScript)`
-
-### **Backend & Database**
-`Node.js` `Express.js` `Flask`  
-`PostgreSQL` `MySQL` `MongoDB`  
-`Prisma ORM`
-
-### **Tools & Platforms**
-`Git` `GitHub` `Docker` `Postman`
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📂 **Featured Projects**
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Debashish-C&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debashish-C&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+### 🛍️ **[Vendue](https://github.com/Debashish-C)**
+> _A secure college marketplace for buying and selling._
+- **Stack:** `Next.js` `TypeScript` `PostgreSQL` `Prisma`
+- **Key Features:** Bidding system, Campus verification, Real-time chat.
+
+### 🌐 **[DataBiz Website](https://github.com/Debashish-C)**
+> _Official club website for NIT Bhopal's Data Science community._
+- **Stack:** `React` `Framer Motion` `express` `nodejs` `mongodb`
+- **Key Features:** Event management, Member showcase, Smooth animations.
 
 ---
 
-<p align="center">
-  <i>“Write clean code. Keep learning. Build things that matter.”</i>
-</p>
+## 🏆 **Achievements & Stats**
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Debashish-C&theme=radical&no-frame=true&margin-w=15&row=1" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Debashish-C&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debashish-C&layout=compact&theme=dracula&hide_border=true&bg_color=282a36" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</div>
