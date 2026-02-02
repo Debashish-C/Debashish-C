@@ -54,25 +54,6 @@ I am a Developer based in **India**, currently pursuing my **MCA at NIT Bhopal**
 - **Stack:** `React` `Framer Motion` `express` `nodejs` `mongodb`
 - **Key Features:** Event management, Member showcase, Smooth animations.
 
----
-
-## 🏆 **Achievements & Stats**
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Debashish-C&theme=radical&no-frame=true&margin-w=15&row=1" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Debashish-C&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debashish-C&layout=compact&theme=dracula&hide_border=true&bg_color=282a36" />
-</div>
-
-<br/>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </div>
